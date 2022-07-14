@@ -48,7 +48,7 @@ github_repo: yt_support
 logo: assets/img/icon.png
 
 # branch to edit on GitHub
-github_branch: main
+github_branch: main/docs
 
 # If not set, badge color (background) defaults to violet
 # badge_color: "#2bcf98"
