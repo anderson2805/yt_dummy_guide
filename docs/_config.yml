@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Youtube+ <br />Dummy Guide
+title: Youtube+ <br />Support
 email: ngweijie@outlook.com
 author: Ng Wei Jie
 description: > # this means to ignore newlines until "baseurl:"
@@ -23,7 +23,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Google search results) and in your feed.xml site description.
 
 # Add your baseurl here (your repository) but DO NOT CHANGE THE LINE NUMBER without editing .circleci/circle_urls.sh
-baseurl: "/yt_dummy_guide" # the subpath of your site, e.g. /blog
+baseurl: "/yt_support" # the subpath of your site, e.g. /blog
 
 # This is mostly for testing
 url: "https://anderson2805.github.io" # the base hostname & protocol for your site
@@ -36,16 +36,16 @@ keywords: "documentation theme"
 add_permalinks: true
 
 # Optional
-twitter: vsoch
-linkedin: vsochat
-support: https://github.com/vsoch/tw-jekyll/issues
-repo: https://github.com/vsoch/tw-jekyll
-github_user: vsoch
-github_repo: tw-jekyll
+#twitter: vsoch
+#linkedin: vsochat
+support: https://github.com/anderson2805/yt_support/issues
+repo: https://github.com/anderson2805/yt_support
+github_user: anderson2805
+github_repo: yt_support
 # discord: https://community.discord.com
 
 # If you have a logo, put here to include in meta tags
-logo: assets/img/tw-jekyll.png
+logo: assets/img/icon.png
 
 # branch to edit on GitHub
 github_branch: main
