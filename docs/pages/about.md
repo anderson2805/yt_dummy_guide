@@ -11,9 +11,9 @@ The original [Apache License](https://github.com/vsoch/tw-jekyll/tree/main/LICEN
 
 See the [respository]({{ site.repo }}) for more details. -->
 
-This site provides the functions of knowledge management for capabilities on Youtube+.
+This site provides the knowledge management for capabilities on Youtube+.
 
-Youtube+ collect Youtube data via official [Youtube API](https://developers.google.com/youtube/v3) with captions ingested using [youtube_transcript_api](https://pypi.org/project/youtube-transcript-api/)
+Youtube+ collect Youtube data via official [Youtube API](https://developers.google.com/youtube/v3){:target="_blank"} with captions ingested using [youtube_transcript_api](https://pypi.org/project/youtube-transcript-api/){:target="_blank"}
 
 The goal is collection, data processing and visualization for analysis, all in one seamless interface. 
 
