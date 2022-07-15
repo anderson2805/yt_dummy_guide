@@ -4,7 +4,7 @@
     - title: "About"
       url: "about"
     - title: "Getting Started"
-      url: "docs/youtube_api"
+      url: "docs/getting-started"
     - title: "Video Similarity"
       url: "docs/video_sim"
     - title: "Data Description"
@@ -19,7 +19,7 @@
     # - title: Quizzes
     #   url: "docs/extras/example-quiz"
     - title: "Getting Started in Contributing"
-      url: "docs/getting-started"
+      url: "docs/getting-started-contri"
       children:
         - title: Features
           url: "docs/getting-started#getting-started"
